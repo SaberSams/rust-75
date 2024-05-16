@@ -1,4 +1,4 @@
-workspace = { members = ["adder"] }
+workspace = { members = [] }
 [package]
 name = "rust-75"
 version = "0.1.0"
